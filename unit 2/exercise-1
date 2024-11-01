@@ -1,0 +1,9 @@
+1. Title of the page: “Predict the Result” (appears in the browser tab).
+
+2. Header: The heading "Favorite Sites" is italicized and in a large font (since it’s wrapped in an <h1> tag).
+
+3. Main Section: Ordered list with two bullet points:
+Facebook (link).
+Google (link).
+
+4. Footer: Small-sized copyright text appears at the bottom of the page, showing "Copyright © 2016 Your name here."
