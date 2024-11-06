@@ -1,0 +1,33 @@
+The code has two main issues that prevent it from displaying properly:
+
+Misspelling of the CSS Property:
+
+In the CSS, colour is used instead of the correct CSS property name, color. CSS is strict about property names, so using colour will cause the browser to ignore that line. This will result in the text color not being applied, potentially leading to poor contrast.
+Incorrect Closing Tag for the <style> Element:
+
+The closing tag for the <style> element is written as <style>, which is incorrect. It should be </style>. Without a proper closing tag, the browser won't interpret the CSS rules correctly, and it may ignore all the styles inside this block.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Trillium Media Design</title>
+  <meta charset="utf-8">
+  <style>
+    body { 
+      background-color: #000066;
+      color: #CCCCCC; /* Corrected spelling of color */
+      font-family: Arial, sans-serif;
+      font-size: 1.2em;
+    }
+  </style> <!-- Corrected closing tag -->
+</head>
+<body>
+  <header><h1>Trillium Media Design</h1></header>
+  <main>
+    <p>Our professional staff takes pride in its working
+    relationship with our clients by offering personalized services
+    that listen to their needs, develop their target areas, and
+    incorporate these items into a website that works.</p>
+  </main>
+</body>
+</html>

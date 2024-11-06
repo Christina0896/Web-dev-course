@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Trillium Media Design</title>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        background-color: #000066; /* Dark blue background */
+        color: #cccccc; /* Light gray text */
+        font-family: Arial, sans-serif; /* Font style */
+      }
+      header {
+        background-color: #ffffff; /* White background for header */
+        color: #000066; /* Dark blue text in header */
+      }
+      footer {
+        font-size: 80%; /* Smaller font size for footer */
+        font-style: italic; /* Italic style for footer text */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Trillium Media Design</h1>
+    </header>
+    <nav>
+      Home <a href="about.html">About</a> <a href="services.html">Services</a>
+    </nav>
+    <p>
+      Our professional staff takes pride in its working relationship with our
+      clients by offering personalized services that listen to their needs,
+      develop their target areas, and incorporate these items into a website
+      that works.
+    </p>
+    <br /><br />
+    <footer>Copyright &copy; 2016 Trillium Media Design</footer>
+  </body>
+</html>
+
+Description Title: The web page will have the title "Trillium Media Design,"
+which appears in the browser tab. Header: At the top of the page, there will be
+a header section containing the main heading "Trillium Media Design." This text
+will be displayed in a large font and will be styled with a white background and
+blue text, making it stand out against the dark background of the body.
+Navigation Bar: Below the header, there will be a simple navigation bar that
+includes links to "Home," "About," and "Services." These links will be styled
+with the same blue color as the header, making them easy to read against the
+background. Body Text: The main content area will feature a paragraph describing
+the services provided by Trillium Media Design. This text will be in a light
+gray color, making it readable against the dark blue background. The font will
+be Arial or another sans-serif typeface, ensuring a modern and clean look.
+Footer: At the bottom of the page, there will be a footer with a copyright
+notice, displayed in italicized and smaller text, indicating the year and the
+name of the company.
